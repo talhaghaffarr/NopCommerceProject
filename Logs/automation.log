@@ -1,0 +1,11 @@
+01-09-2020 19:39:49 INFO: ********* Test_003_AddCustomer ********
+01-09-2020 19:39:49 INFO: ********* Verifying Home Page Title ********
+01-09-2020 19:40:00 INFO: ********* Login Successful ********
+01-09-2020 19:40:00 INFO: ********* Starting Add Customer Test ********
+01-09-2020 19:40:10 INFO: ********* Entering new  Customer Details ********
+01-09-2020 19:40:23 INFO: ********* Saving new  Customer Details ********
+01-09-2020 19:40:23 INFO: ******** Add customer validation started ********
+01-09-2020 19:40:24 INFO: ********* Add Customer Test Passed ********
+01-09-2020 19:40:24 INFO: ******* Ending Add customer test **********
+01-09-2020 19:40:30 INFO: ********* Verifying Login Test ********
+01-09-2020 19:40:38 INFO: ********* Login Test Passed ********
